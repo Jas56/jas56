@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 i'm jafer
 
 --> I’m currently learning software engineering at ALX.
 
